@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757086494,
+    "authority": 0.7197042067826928,
+    "text": "Node topic: NestJS LTS npm libuv worker_threads package.json Express Express NestJS worker_threads npm npm require",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757086850,
+    "authority": 0.7257140929565249,
+    "text": "Node topic: require worker_threads cluster require libuv libuv package.json worker_threads require LTS CommonJS NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757088250,
+    "authority": 0.7110919543483076,
+    "text": "Node topic: worker_threads Express libuv cluster NestJS worker_threads package.json Express LTS Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757088084,
+    "authority": 0.6965601865839673,
+    "text": "Node topic: libuv cluster CommonJS libuv CommonJS npm worker_threads libuv cluster NestJS libuv worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757088566,
+    "authority": 0.7040685885532142,
+    "text": "Parent topic: modules event loop tooling javascript tooling javascript esm tooling runtime http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757088544,
+    "authority": 0.6559110506078989,
+    "text": "Parent topic: modules cjs javascript ts javascript tooling modules esm javascript http server esm tooling",
+    "arm_id": "seed:Parent"
+  }
+]

@@ -1,0 +1,26 @@
+# Logging configuration for topic evolution system
+# You can modify these settings to customize the logging behavior
+
+# Default log level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+default_level: "INFO"
+
+# Show timestamp in logs
+show_timestamp: true
+
+# Show logger name in logs  
+show_logger_name: true
+
+# Color scheme for different log levels
+colors:
+  DEBUG: "cyan"
+  INFO: "green" 
+  WARNING: "yellow"
+  ERROR: "red"
+  CRITICAL: "red,bg_white"
+
+# Date format for timestamps
+date_format: "%H:%M:%S"
+
+# Log format template
+# Available placeholders: %(asctime)s, %(name)s, %(levelname)s, %(message)s
+log_format: "%(asctime)s %(name)s %(levelname)s: %(message)s"

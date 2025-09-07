@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1757519888,
+    "authority": 0.8681588116666379,
+    "text": "Deno topic: TypeScript-first Deno KV deno.json std library import URL import URL deno.json permissions std library Web APIs fetch std library permissions bundled tooling",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1757521394,
+    "authority": 0.631560137264318,
+    "text": "Bun topic: HMR fast startup bun install hot reload fast startup fast startup test runner bun install native loader native loader bundler hot reload HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1757518494,
+    "authority": 0.6253212216289505,
+    "text": "Bun topic: native loader HMR HMR bun install test runner test runner test runner HMR hot reload bundler bun install native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757520136,
+    "authority": 0.6785543542092016,
+    "text": "Node topic: npm cluster CommonJS libuv Express cluster cluster cluster CommonJS NestJS NestJS LTS npm require NestJS worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/3",
+    "title": "Bun doc 3",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1757518718,
+    "authority": 0.6668875987785815,
+    "text": "Bun topic: HMR hot reload Zig bundler HMR test runner test runner native loader native loader HMR bundler HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1757521789,
+    "authority": 0.613857253376015,
+    "text": "Bun topic: fast startup HMR bun install fast startup HMR hot reload Zig bundler bun install hot reload HMR Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1757518533,
+    "authority": 0.8930536055644667,
+    "text": "Deno topic: Deno KV bundled tooling Web APIs deno.json TypeScript-first Web APIs deno.json TypeScript-first Web APIs bundled tooling bundled tooling std library bundled tooling",
+    "arm_id": "seed:Deno"
+  }
+]

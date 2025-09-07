@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757261527,
+    "authority": 0.7485248997064742,
+    "text": "Parent topic: runtime event loop cjs ts workers cjs modules javascript runtime http server cjs http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757260477,
+    "authority": 0.7410017056315557,
+    "text": "Node topic: NestJS package.json package.json require require require require libuv require NestJS CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757262097,
+    "authority": 0.660277205352918,
+    "text": "Node topic: CommonJS LTS npm libuv NestJS cluster cluster libuv NestJS LTS CommonJS libuv npm worker_threads worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757259375,
+    "authority": 0.724335271080432,
+    "text": "Parent topic: javascript modules cjs event loop ts runtime cjs workers runtime ts http server event loop javascript modules workers http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1757261098,
+    "authority": 0.8325613637361883,
+    "text": "Deno topic: permissions TypeScript-first Deno KV Web APIs Web APIs Deno KV fetch TypeScript-first permissions TypeScript-first TypeScript-first Web APIs TypeScript-first bundled tooling TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1757261563,
+    "authority": 0.8141558971058525,
+    "text": "Deno topic: import URL fetch Web APIs fetch fetch permissions permissions Web APIs fetch Deno KV import URL Deno KV permissions",
+    "arm_id": "seed:Deno"
+  }
+]
