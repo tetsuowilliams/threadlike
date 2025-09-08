@@ -36,8 +36,6 @@ class FixtureSearchAdapter:
         return [{"url": r["url"]} for r in self._get()][:limit]
 
 
-
-
 def print_topic_tree(topic: Topic, storage: InMemoryStorage, depth: int = 0):
     """Print topic tree with --- indentation."""
     indent = "---" * depth
