@@ -55,7 +55,6 @@ from protocols import (
 from core_services.topic_updater import TopicUpdater           # long-term mean (+ optional short-term EMA)
 from core_services.cluster_smoother import ClusterSmoother     # EMA for cluster metrics + persistence counter
 from core_services.emergence_detector import EmergenceDetector # promotion rule evaluation
-from observer import Observer
 from logging_config import get_logger
 
 logger = get_logger("orchestrator")
@@ -104,7 +103,6 @@ class Orchestrator:
         emergence: EmergenceDetector,
         namer: EmergenceNamer,
         matcher: ClusterMatcher,
-        observer: Observer,
         window_days: int = 30,
         K_queries: int = 6,
         K_keep: int = 20,
@@ -124,7 +122,6 @@ class Orchestrator:
         self.emergence = emergence
         self.namer = namer
         self.matcher = matcher
-        self.observer = observer
         
         # Policy
         self.window_days = window_days
@@ -262,9 +259,6 @@ class Orchestrator:
         # Housekeeping: expire ephemeral clusters that weren't matched for a while.
         # The matcher may implement time/tick-based eviction; pass a monotonic counter if needed.
         self.matcher.expire_stale(self.storage, topic.id)
-
-        # -------- 7) Observe the topic
-        self.observer.observe_on_tick()
 
         # -------- Return a compact, machine-readable summary
         return {

@@ -26,7 +26,7 @@ class TopicObservation:
 @dataclass
 class Observation:
     tick: int
-    topic: Topic
+    topic: TopicObservation
     
 
 class Observer:
