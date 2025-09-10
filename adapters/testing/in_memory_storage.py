@@ -18,6 +18,9 @@ class InMemoryStorage(Storage):
         self.docs_by_topic: Dict[str, List[Doc]] = {}
         self.seen_hashes: Dict[str, set[str]] = {}
         self.cluster_state: Dict[Tuple[str, str], ClusterState] = {}
+
+    def get_all_topics(self) -> List[Topic]:
+        return list(self.topics.values())
     
     def load_topic(self, topic_id: str) -> Topic:
         return self.topics[topic_id]

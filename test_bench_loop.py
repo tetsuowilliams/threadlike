@@ -5,6 +5,8 @@ logger = setup_logging("DEBUG", "test_bench_loop")
 import uuid
 from typing import List, Dict
 
+from protocols.searcher import Searcher
+
 from models import Topic, NegativeRules, TopicPolicy
 from adapters.testing.in_memory_storage import InMemoryStorage
 from adapters.testing.search.toy_query_planner import ToyQueryPlanner
@@ -14,26 +16,21 @@ from adapters.testing.filtering.seen_deduper import SeenDeduper
 from adapters.testing.filtering.simple_ranker import SimpleRanker
 from adapters.testing.kmeans2_clusterer import KMeans2Clusterer
 from adapters.testing.simple_namer import SimpleNamer
+from tests.fixture_testing.fixture_search import FixtureSearch
 
 from core_services.topic_updater import TopicUpdater
 from core_services.cluster_smoother import ClusterSmoother
 from core_services.emergence_detector import EmergenceDetector
 from core_services.cluster_matcher import ClusterMatcher
 from core_services.orchestrator import Orchestrator
+from observer import Observer
+
 
 # Fixture I/O
-from tests.fixture_testing.fixture_reader import JsonCorpus, FixtureFetch
+from tests.fixture_testing.json_corpus import JsonCorpus
+from tests.fixture_testing.fixture_fetch import FixtureFetch
 
 NUM_TICKS = 10  # or let the loop break when corpus ends
-
-class FixtureSearchAdapter:
-    """Minimal SearchPort that serves the URLs for the current preloaded batch."""
-    def __init__(self, current_batch_getter):
-        self._get = current_batch_getter
-
-    def search(self, query: str, limit: int) -> List[Dict]:
-        # Ignore query; return one hit per record in the current tick.
-        return [{"url": r["url"]} for r in self._get()][:limit]
 
 
 def print_topic_tree(topic: Topic, storage: InMemoryStorage, depth: int = 0):
@@ -78,20 +75,15 @@ def main():
     # --- Fixture corpus & fetcher
     corpus = JsonCorpus("tests/fixture_testing/corpus/test1")
     fetch = FixtureFetch(corpus)
-    logger.info("Loaded fixture corpus and fetcher")
-
-    # This list will hold the current tick's (possibly deduped) records.
-    current_batch: List[Dict] = []
-
-    def get_current_batch() -> List[Dict]:
-        return current_batch
+    search = FixtureSearch(corpus)
+    logger.info("Loaded fixture corpus and fetcher")    
     
     matcher = ClusterMatcher()
 
     # --- Wire orchestrator with fixture adapters
-    refresher = Orchestrator(
+    orchestrator = Orchestrator(
         planner=ToyQueryPlanner(),
-        searcher=FixtureSearchAdapter(get_current_batch),  # <- fixture search
+        searcher=search,  # <- fixture search
         fetcher=fetch,                                   # <- fixture fetch
         embedder=ToyEmbed(dim=32),
         storage=storage,
@@ -104,36 +96,17 @@ def main():
         emergence=EmergenceDetector(),
         namer=SimpleNamer(),
         matcher=matcher,
+        observer=Observer(storage),
         window_days=30,
         K_queries=6,
         K_keep=20,
     )
 
-    # --- Drive ticks from on-disk JSON
-    logger.info(f"Starting {NUM_TICKS} ticks from fixture data")
-    for tick_num in range(NUM_TICKS):
-        # Load the next tick's raw records and prime the fetch cache
-        current_batch = corpus.next_batch()
+    for _ in range(NUM_TICKS):
+        orchestrator.tick(topic.id)
 
-        if not current_batch:
-            logger.info("No more tick files available, ending simulation")
-            break  # no more tick files
-
-        fetch.cache = {rec["url"]: rec for rec in current_batch}
-        logger.debug(f"Loaded {len(current_batch)} records for tick {tick_num}")
-
-        # Run one orchestrator tick
-        out = refresher.tick(topic.id)
-
-        clusters = matcher.list_states(storage, topic.id)
-        cluster_length = len(clusters)
-        logger.info(f"Clusters for topic {topic.id}: {cluster_length}")
-
-        # Use colorful logging instead of print
-        if out['promotions']:
-            logger.warning(f"Tick {tick_num}: ingested={out['ingested']}, clusters={out['clusters_observed']}, promotions={out['promotions']}")
-        else:
-            logger.info(f"Tick {tick_num}: ingested={out['ingested']}, clusters={out['clusters_observed']}, promotions={out['promotions']}")
+        if not corpus.next_batch():
+            break
     
     logger.info("Test bench loop simulation completed")
 
