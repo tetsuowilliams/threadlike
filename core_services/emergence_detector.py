@@ -60,7 +60,7 @@ class EmergenceDetector:
             negative=parent.negative,
             policy=parent.policy,
             centroid_long=snap.centroid_now[:],
-            weight_sum=float(snap.size),
+            doc_count=snap.size,
             centroid_short_ema=None,
             emerged_from=parent.id,
             last_updated_ts=time.time()

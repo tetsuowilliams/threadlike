@@ -20,7 +20,7 @@ class TopicObservation:
     seeds: List[str]
     clusters: List[ClusterObservation]
     centroid_long: Optional[Vector] = None
-    weight_sum: float = 0.0
+    doc_count: int = 0
     centroid_short_ema: Optional[Vector] = None
 
 @dataclass
@@ -43,7 +43,7 @@ class Observer:
                 topic_id=topic.id, 
                 seeds=topic.seeds, 
                 centroid_long=topic.centroid_long, 
-                weight_sum=topic.weight_sum, 
+                doc_count=topic.doc_count,
                 centroid_short_ema=topic.centroid_short_ema,
                 clusters=[]
             )

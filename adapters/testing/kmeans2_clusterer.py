@@ -4,7 +4,7 @@ from __future__ import annotations
 from typing import List
 from models import Topic, Doc, ClusterSnapshot
 from protocols import Clusterer
-from core_services.math_helpers import Vector, cos, wmean
+from core_services.math_helpers import Vector, cos
 
 
 class KMeans2Clusterer(Clusterer):

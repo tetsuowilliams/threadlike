@@ -34,7 +34,7 @@ class Topic:
 
     # Running total of weights used in centroid_long.
     # Required for correct incremental mean updates.
-    weight_sum: float = 0.0
+    doc_count: int = 0
 
     # Short-term centroid (optional EMA over recent docs).
     # Used to track drift / "what the topic looks like right now".

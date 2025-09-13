@@ -4,7 +4,7 @@ import numpy as np
 import hdbscan
 from protocols import Clusterer
 from models import Topic, Doc, ClusterSnapshot
-from core_services.math_helpers import Vector
+from core_services.math_helpers import Vector, centroid_unit, cohesion_mean_cos
 
 
 class HDBSCANClusterer(Clusterer):
@@ -17,7 +17,7 @@ class HDBSCANClusterer(Clusterer):
 
     def __init__(
         self,
-        min_cluster_size: int = 30,   # smallest subtopic mass you care about
+        min_cluster_size: int = 30,   # smallest subtopic size you care about
         min_samples: int = 15,        # larger -> stricter core definition (more noise)
         cluster_selection_epsilon: float = 0.0,
         n_jobs: int = 8,
@@ -34,17 +34,6 @@ class HDBSCANClusterer(Clusterer):
     def _l2_normalize(self, V: np.ndarray) -> np.ndarray:
         n = np.linalg.norm(V, axis=1, keepdims=True) + 1e-12
         return V / n
-
-    def _centroid(self, X: np.ndarray) -> np.ndarray:
-        """Plain mean centroid, renormalized to unit L2."""
-        C = X.mean(axis=0)
-        C /= (np.linalg.norm(C) + 1e-12)
-        return C
-
-    def _cohesion(self, X: np.ndarray, C: np.ndarray) -> float:
-        """Average cosine(doc, centroid). With unit vectors, cosine = dot."""
-        sims = X @ C  # shape (n,)
-        return float(sims.mean())
 
     def cluster(self, centroid_long: Vector, docs_window: List[Doc]) -> List[ClusterSnapshot]:
         if not docs_window:
@@ -75,7 +64,8 @@ class HDBSCANClusterer(Clusterer):
             P = np.array(centroid_long, dtype=np.float32)
             P = P / (np.linalg.norm(P) + 1e-12)
         else:
-            P = self._centroid(V)
+            P = V.mean(axis=0)
+            P = P / (np.linalg.norm(P) + 1e-12)
 
         snaps: List[ClusterSnapshot] = []
         unique_labels = [lab for lab in np.unique(labels) if lab != -1]
@@ -85,16 +75,16 @@ class HDBSCANClusterer(Clusterer):
             if idx.size == 0:
                 continue
 
-            X = V[idx]              # (n_i, d)
-            mass = len(idx)
-            if mass < self.min_mass:
+            X = V[idx]                  # (n_i, d)
+            size = len(idx)
+            if size < self.min_mass:
                 continue
 
             # Plain centroid (unit L2)
-            C = self._centroid(X)
+            C = centroid_unit(X.tolist())
 
             # Plain cohesion (mean cosine to centroid)
-            coh = self._cohesion(X, C)
+            coh = cohesion_mean_cos(X.tolist(), C)
             if coh < self.min_cohesion:
                 continue
 
@@ -104,8 +94,8 @@ class HDBSCANClusterer(Clusterer):
 
             snaps.append(ClusterSnapshot(
                 cluster_id=f"h{lab}",
-                centroid_now=C.tolist(),
-                size=mass,
+                centroid_now=C,
+                size=size,                          # just number of docs
                 cohesion_now=coh,
                 separation_now=sep,
                 doc_ids=[docs_window[i].id for i in idx],

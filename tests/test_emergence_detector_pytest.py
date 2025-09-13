@@ -202,7 +202,7 @@ class TestEmergenceDetectorReady:
 class TestEmergenceDetectorPromote:
     """Test cases for EmergenceDetector.promote() method."""
     
-    def test_promote_creates_correct_topic(self, detector, topic, cluster_snapshot, cluster_state, test_docs):
+    def test_promote_creates_correct_topic(self, detector: EmergenceDetector, topic: Topic, cluster_snapshot: ClusterSnapshot, cluster_state: ClusterState, test_docs: list[Doc]):
         """Test promote() creates a topic with correct properties."""
         namer = MockNamer()
         result = detector.promote(topic, cluster_snapshot, namer, test_docs)
@@ -220,7 +220,7 @@ class TestEmergenceDetectorPromote:
         
         # Check centroid and weight
         assert result.centroid_long == cluster_snapshot.centroid_now
-        assert result.weight_sum == float(cluster_snapshot.size)
+        assert result.doc_count == cluster_snapshot.size
         assert result.centroid_short_ema is None
         
         # Check timestamp is recent
