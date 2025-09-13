@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1765228821,
+    "authority": 0.836650576384137,
+    "text": "Deno topic: bundled tooling deno.json TypeScript-first bundled tooling Web APIs import URL fetch bundled tooling std library bundled tooling std library Deno KV fetch std library std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765229272,
+    "authority": 0.3187300579040792,
+    "text": "Noise topic: tutorial learn quickly tutorial interview questions learn quickly learn quickly course tutorial tutorial bootcamp learn quickly hiring hiring interview questions",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765228958,
+    "authority": 0.6749492404190145,
+    "text": "Bun topic: test runner fast startup native loader HMR native loader bundler bun install test runner Zig bundler Zig test runner test runner native loader test runner native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1765228911,
+    "authority": 0.7014502785911753,
+    "text": "Node topic: npm package.json libuv LTS worker_threads worker_threads worker_threads NestJS CommonJS package.json package.json worker_threads require NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765229092,
+    "authority": 0.6907285140729601,
+    "text": "Bun topic: bun install fast startup Zig Zig native loader Zig hot reload bun install hot reload Zig HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765228316,
+    "authority": 0.6499234600273707,
+    "text": "Bun topic: HMR fast startup bun install hot reload fast startup Zig native loader test runner fast startup fast startup HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765228058,
+    "authority": 0.27741851801102846,
+    "text": "Noise topic: bootcamp bootcamp hiring learn quickly course hiring hiring course bootcamp learn quickly hiring hiring",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1765230055,
+    "authority": 0.8493589979302874,
+    "text": "Deno topic: Web APIs Web APIs bundled tooling import URL bundled tooling bundled tooling permissions Deno KV std library import URL import URL Deno KV deno.json Deno KV std library fetch",
+    "arm_id": "seed:Deno"
+  }
+]

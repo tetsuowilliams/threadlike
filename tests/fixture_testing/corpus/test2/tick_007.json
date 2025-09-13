@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758231574,
+    "authority": 0.6609008065998009,
+    "text": "Node topic: npm require package.json npm NestJS require worker_threads CommonJS NestJS require package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758231936,
+    "authority": 0.6949641964570935,
+    "text": "Node topic: cluster package.json NestJS LTS npm libuv LTS npm npm libuv NestJS worker_threads CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758229246,
+    "authority": 0.7149649979974313,
+    "text": "Parent topic: runtime esm workers javascript tooling modules esm cjs ts esm tooling tooling javascript http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758229031,
+    "authority": 0.6669260942257624,
+    "text": "Node topic: worker_threads LTS LTS Express CommonJS LTS worker_threads npm cluster Express Express Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758230643,
+    "authority": 0.6862319891769936,
+    "text": "Node topic: CommonJS package.json cluster npm require NestJS Express NestJS cluster worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758231168,
+    "authority": 0.6570351908358554,
+    "text": "Parent topic: workers event loop workers http server tooling javascript workers esm modules event loop cjs runtime esm event loop event loop runtime",
+    "arm_id": "seed:Parent"
+  }
+]

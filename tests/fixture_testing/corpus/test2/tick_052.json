@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762119813,
+    "authority": 0.880559637630547,
+    "text": "Deno topic: bundled tooling permissions bundled tooling import URL bundled tooling Deno KV import URL Web APIs fetch std library TypeScript-first bundled tooling",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762117581,
+    "authority": 0.8167745217047135,
+    "text": "Deno topic: Deno KV deno.json Web APIs fetch bundled tooling bundled tooling permissions Deno KV Web APIs std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762117432,
+    "authority": 0.6684235895325963,
+    "text": "Bun topic: native loader test runner Zig test runner hot reload bundler hot reload bun install bun install Zig bundler Zig bun install fast startup native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762120006,
+    "authority": 0.7218696572486326,
+    "text": "Parent topic: event loop cjs esm ts javascript http server javascript ts ts javascript http server http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762118372,
+    "authority": 0.8282612487426517,
+    "text": "Deno topic: Web APIs bundled tooling import URL TypeScript-first Web APIs bundled tooling deno.json std library TypeScript-first std library permissions bundled tooling Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762120553,
+    "authority": 0.6197789002532031,
+    "text": "Bun topic: Zig bundler fast startup test runner HMR hot reload HMR test runner fast startup hot reload native loader HMR hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762118044,
+    "authority": 0.7285860666810247,
+    "text": "Node topic: Express LTS CommonJS CommonJS package.json CommonJS CommonJS libuv Express CommonJS LTS NestJS",
+    "arm_id": "seed:Node"
+  }
+]

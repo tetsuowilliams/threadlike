@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1759870987,
+    "authority": 0.8969812761257482,
+    "text": "Deno topic: bundled tooling Web APIs Web APIs permissions deno.json import URL TypeScript-first Deno KV permissions std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1759873531,
+    "authority": 0.8055298265178665,
+    "text": "Deno topic: fetch Web APIs permissions std library TypeScript-first import URL fetch Web APIs permissions TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759870940,
+    "authority": 0.7153072932705197,
+    "text": "Parent topic: http server workers cjs workers esm event loop modules http server workers cjs cjs javascript esm event loop workers event loop",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759872539,
+    "authority": 0.6545580178579793,
+    "text": "Parent topic: javascript ts cjs runtime cjs modules runtime http server tooling esm tooling",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759873146,
+    "authority": 0.6810349097418212,
+    "text": "Node topic: worker_threads npm Express CommonJS Express LTS libuv package.json cluster CommonJS worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759872271,
+    "authority": 0.749988722581844,
+    "text": "Node topic: Express cluster Express require CommonJS LTS package.json require npm CommonJS package.json LTS",
+    "arm_id": "seed:Node"
+  }
+]

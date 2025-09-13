@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762809871,
+    "authority": 0.8945404836747234,
+    "text": "Deno topic: Web APIs bundled tooling fetch bundled tooling deno.json TypeScript-first permissions bundled tooling bundled tooling permissions Web APIs std library import URL fetch TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762810883,
+    "authority": 0.7240433692754525,
+    "text": "Node topic: cluster CommonJS NestJS cluster cluster npm CommonJS LTS Express NestJS Express cluster",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762808613,
+    "authority": 0.7213583280523612,
+    "text": "Parent topic: modules event loop ts tooling javascript ts runtime esm event loop runtime http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762808807,
+    "authority": 0.8524615683814722,
+    "text": "Deno topic: std library fetch bundled tooling Web APIs deno.json import URL bundled tooling bundled tooling permissions Web APIs permissions TypeScript-first bundled tooling Web APIs Web APIs fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762808926,
+    "authority": 0.8714972001004686,
+    "text": "Deno topic: std library import URL Web APIs permissions bundled tooling bundled tooling Deno KV bundled tooling Web APIs fetch deno.json Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762810640,
+    "authority": 0.6764613284529362,
+    "text": "Bun topic: bundler Zig HMR HMR native loader bun install HMR bundler bun install Zig bun install fast startup",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762810567,
+    "authority": 0.6089988490255926,
+    "text": "Bun topic: native loader Zig hot reload HMR bundler HMR hot reload HMR test runner bundler",
+    "arm_id": "seed:Bun"
+  }
+]

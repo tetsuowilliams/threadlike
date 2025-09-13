@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761515436,
+    "authority": 0.8900612866216149,
+    "text": "Deno topic: import URL std library import URL TypeScript-first fetch fetch TypeScript-first deno.json permissions permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761513943,
+    "authority": 0.6906139437973369,
+    "text": "Node topic: LTS LTS require worker_threads Express cluster worker_threads CommonJS require require require npm CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761514849,
+    "authority": 0.8835539836810767,
+    "text": "Deno topic: TypeScript-first import URL bundled tooling import URL std library Deno KV std library permissions Web APIs TypeScript-first Deno KV permissions std library bundled tooling Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761513032,
+    "authority": 0.8588805951518053,
+    "text": "Deno topic: import URL Deno KV bundled tooling permissions Deno KV deno.json deno.json fetch import URL fetch fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1761514972,
+    "authority": 0.697168177524458,
+    "text": "Parent topic: javascript ts tooling runtime event loop esm esm cjs tooling event loop javascript workers event loop",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761513895,
+    "authority": 0.6707151498962511,
+    "text": "Node topic: worker_threads npm NestJS cluster worker_threads cluster CommonJS LTS worker_threads require NestJS LTS",
+    "arm_id": "seed:Node"
+  }
+]

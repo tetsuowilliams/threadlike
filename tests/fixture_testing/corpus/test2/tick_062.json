@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762983341,
+    "authority": 0.8848835130605679,
+    "text": "Deno topic: TypeScript-first Deno KV Deno KV import URL fetch bundled tooling deno.json fetch bundled tooling deno.json Deno KV Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762982174,
+    "authority": 0.6098166739499155,
+    "text": "Bun topic: test runner test runner Zig bundler fast startup hot reload bundler native loader native loader bun install fast startup fast startup test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762981498,
+    "authority": 0.6625872235369592,
+    "text": "Bun topic: native loader fast startup Zig HMR bun install HMR bundler bundler hot reload bun install hot reload HMR bundler HMR bun install hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762981234,
+    "authority": 0.7296086694993504,
+    "text": "Node topic: CommonJS package.json package.json CommonJS NestJS package.json LTS CommonJS NestJS package.json LTS require Express libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762983397,
+    "authority": 0.8700754501226737,
+    "text": "Deno topic: permissions fetch std library Web APIs bundled tooling TypeScript-first deno.json permissions permissions deno.json",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762984403,
+    "authority": 0.8054244524742198,
+    "text": "Deno topic: fetch Web APIs Deno KV Web APIs fetch permissions fetch permissions deno.json bundled tooling",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762983537,
+    "authority": 0.7269701013903997,
+    "text": "Parent topic: esm event loop runtime workers workers workers esm modules runtime esm workers ts workers workers modules",
+    "arm_id": "seed:Parent"
+  }
+]

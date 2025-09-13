@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762465309,
+    "authority": 0.8114389869317689,
+    "text": "Deno topic: permissions Web APIs Web APIs std library fetch permissions fetch std library std library import URL import URL deno.json TypeScript-first bundled tooling std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762465178,
+    "authority": 0.6080788356154093,
+    "text": "Bun topic: hot reload fast startup hot reload fast startup native loader native loader test runner bundler fast startup HMR Zig bundler bun install hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762465505,
+    "authority": 0.8172308786138618,
+    "text": "Deno topic: import URL permissions Deno KV permissions permissions TypeScript-first bundled tooling deno.json TypeScript-first bundled tooling permissions Web APIs std library deno.json",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762464129,
+    "authority": 0.6847846675784177,
+    "text": "Node topic: Express package.json cluster npm LTS CommonJS npm NestJS NestJS LTS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762463443,
+    "authority": 0.6301012103845386,
+    "text": "Bun topic: fast startup Zig native loader fast startup native loader fast startup test runner Zig native loader native loader bun install test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762463382,
+    "authority": 0.8174496260984571,
+    "text": "Deno topic: permissions bundled tooling fetch TypeScript-first std library fetch deno.json std library TypeScript-first Web APIs fetch Web APIs TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762466216,
+    "authority": 0.6940426609954516,
+    "text": "Parent topic: modules javascript cjs esm event loop workers ts tooling cjs workers runtime esm workers",
+    "arm_id": "seed:Parent"
+  }
+]

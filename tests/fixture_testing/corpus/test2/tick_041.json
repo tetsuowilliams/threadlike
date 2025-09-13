@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1761168183,
+    "authority": 0.7456799327505126,
+    "text": "Parent topic: http server http server modules workers ts javascript runtime tooling event loop cjs tooling",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761169700,
+    "authority": 0.8758602155243516,
+    "text": "Deno topic: TypeScript-first TypeScript-first Deno KV Deno KV permissions std library bundled tooling bundled tooling import URL permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761169395,
+    "authority": 0.7019669662062287,
+    "text": "Node topic: cluster libuv require CommonJS libuv package.json require worker_threads worker_threads cluster LTS cluster npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761167284,
+    "authority": 0.8382292100002744,
+    "text": "Deno topic: TypeScript-first TypeScript-first TypeScript-first Deno KV Deno KV permissions bundled tooling fetch TypeScript-first import URL deno.json deno.json permissions fetch fetch TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761168492,
+    "authority": 0.7115083949945606,
+    "text": "Node topic: npm npm cluster npm libuv cluster worker_threads libuv worker_threads cluster",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761167406,
+    "authority": 0.8334853856033013,
+    "text": "Deno topic: TypeScript-first deno.json fetch bundled tooling TypeScript-first deno.json deno.json deno.json Web APIs import URL",
+    "arm_id": "seed:Deno"
+  }
+]

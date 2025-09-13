@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763933184,
+    "authority": 0.6908486531907597,
+    "text": "Bun topic: Zig hot reload native loader bundler native loader hot reload fast startup hot reload bun install test runner bundler bundler HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1763931731,
+    "authority": 0.7405083837340471,
+    "text": "Node topic: package.json package.json CommonJS libuv libuv CommonJS Express cluster cluster cluster cluster Express npm npm package.json package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1763934958,
+    "authority": 0.8162778840482264,
+    "text": "Deno topic: permissions std library permissions import URL bundled tooling bundled tooling bundled tooling deno.json permissions std library permissions std library deno.json std library std library Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763933735,
+    "authority": 0.6730442199078196,
+    "text": "Bun topic: native loader hot reload bun install hot reload bun install native loader Zig hot reload fast startup bun install test runner hot reload HMR hot reload test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763932090,
+    "authority": 0.6653526384160989,
+    "text": "Bun topic: HMR native loader bun install fast startup HMR test runner test runner hot reload HMR native loader native loader fast startup native loader bun install HMR Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/3",
+    "title": "Bun doc 3",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763932035,
+    "authority": 0.6366678001592256,
+    "text": "Bun topic: fast startup test runner HMR bun install hot reload HMR hot reload HMR test runner test runner Zig HMR native loader bun install",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1763932727,
+    "authority": 0.8694333016026475,
+    "text": "Deno topic: permissions import URL permissions fetch Deno KV bundled tooling Web APIs bundled tooling permissions permissions std library Web APIs",
+    "arm_id": "seed:Deno"
+  }
+]

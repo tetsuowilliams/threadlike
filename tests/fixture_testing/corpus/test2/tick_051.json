@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762031041,
+    "authority": 0.8777080991369499,
+    "text": "Deno topic: Web APIs deno.json bundled tooling TypeScript-first bundled tooling Deno KV permissions Deno KV import URL bundled tooling import URL std library bundled tooling TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762034133,
+    "authority": 0.8158454668325263,
+    "text": "Deno topic: deno.json bundled tooling fetch fetch fetch bundled tooling Deno KV deno.json Deno KV deno.json import URL",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762031105,
+    "authority": 0.6472773484575011,
+    "text": "Bun topic: hot reload hot reload hot reload HMR Zig fast startup fast startup HMR fast startup HMR hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762032162,
+    "authority": 0.8161267767223308,
+    "text": "Deno topic: import URL Web APIs bundled tooling Deno KV bundled tooling fetch std library Deno KV permissions std library import URL std library Web APIs import URL bundled tooling",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762031261,
+    "authority": 0.7188356216127538,
+    "text": "Node topic: libuv package.json npm NestJS npm cluster cluster libuv CommonJS npm worker_threads libuv NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762032137,
+    "authority": 0.6277900098130591,
+    "text": "Bun topic: test runner bun install fast startup HMR native loader test runner native loader native loader bun install HMR native loader bundler native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762033827,
+    "authority": 0.7405450567853122,
+    "text": "Parent topic: http server http server javascript event loop modules runtime ts workers event loop event loop http server event loop",
+    "arm_id": "seed:Parent"
+  }
+]

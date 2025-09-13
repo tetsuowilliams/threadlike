@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://random.forum/noise/2",
+    "title": "Noise doc 2",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1766006368,
+    "authority": 0.2539939717726328,
+    "text": "Noise topic: hiring tutorial interview questions hiring learn quickly hiring hiring hiring tutorial bootcamp hiring hiring course bootcamp",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1766006853,
+    "authority": 0.8601805721796141,
+    "text": "Deno topic: Web APIs import URL TypeScript-first TypeScript-first fetch fetch TypeScript-first deno.json std library fetch deno.json bundled tooling TypeScript-first bundled tooling TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1766006236,
+    "authority": 0.6755481047023623,
+    "text": "Bun topic: test runner bundler fast startup bun install HMR test runner Zig Zig HMR test runner bun install Zig hot reload Zig native loader test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1766007816,
+    "authority": 0.2584130854666947,
+    "text": "Noise topic: hiring tutorial hiring bootcamp course course course tutorial bootcamp interview questions course bootcamp tutorial learn quickly",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1766006401,
+    "authority": 0.7095462497538763,
+    "text": "Node topic: require cluster libuv require LTS require Express CommonJS worker_threads cluster Express CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1766007204,
+    "authority": 0.2767295787686268,
+    "text": "Noise topic: hiring interview questions tutorial interview questions hiring interview questions learn quickly newsletter learn quickly tutorial interview questions",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1766007449,
+    "authority": 0.637129346485738,
+    "text": "Bun topic: Zig test runner bundler Zig bun install bundler Zig hot reload hot reload HMR fast startup test runner hot reload test runner test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1766005768,
+    "authority": 0.6887211695534616,
+    "text": "Bun topic: native loader test runner bun install native loader hot reload HMR hot reload hot reload fast startup Zig fast startup Zig",
+    "arm_id": "seed:Bun"
+  }
+]

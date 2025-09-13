@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1764710175,
+    "authority": 0.7390327971013974,
+    "text": "Node topic: libuv worker_threads worker_threads cluster npm NestJS require cluster Express NestJS libuv libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764711459,
+    "authority": 0.8799713789595062,
+    "text": "Deno topic: Web APIs TypeScript-first deno.json Web APIs Deno KV permissions permissions deno.json TypeScript-first permissions TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1764710700,
+    "authority": 0.3244235860251373,
+    "text": "Noise topic: course newsletter newsletter bootcamp interview questions interview questions course bootcamp bootcamp bootcamp course",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764712371,
+    "authority": 0.6652685885809837,
+    "text": "Bun topic: Zig HMR fast startup fast startup test runner HMR HMR hot reload HMR hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764711899,
+    "authority": 0.6810551000789898,
+    "text": "Bun topic: Zig HMR bundler Zig bun install HMR HMR bun install test runner bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764710042,
+    "authority": 0.8066514848500104,
+    "text": "Deno topic: deno.json permissions permissions fetch bundled tooling permissions std library bundled tooling fetch bundled tooling bundled tooling deno.json",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1764709469,
+    "authority": 0.30223932778642787,
+    "text": "Noise topic: hiring tutorial interview questions course tutorial hiring course course hiring learn quickly hiring learn quickly",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764709635,
+    "authority": 0.6819590715463478,
+    "text": "Bun topic: bundler test runner Zig hot reload bundler Zig native loader Zig test runner bundler fast startup HMR HMR native loader",
+    "arm_id": "seed:Bun"
+  }
+]

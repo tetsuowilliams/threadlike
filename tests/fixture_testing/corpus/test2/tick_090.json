@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765400699,
+    "authority": 0.2545651411522101,
+    "text": "Noise topic: hiring learn quickly learn quickly learn quickly course course interview questions interview questions newsletter bootcamp interview questions",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765402282,
+    "authority": 0.6485920478363869,
+    "text": "Bun topic: native loader fast startup bundler hot reload native loader bun install bundler native loader test runner hot reload test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765401641,
+    "authority": 0.6643198407964047,
+    "text": "Bun topic: hot reload test runner hot reload native loader Zig hot reload hot reload native loader Zig bun install bundler native loader bun install",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765403546,
+    "authority": 0.6651378406607936,
+    "text": "Bun topic: bundler fast startup fast startup bun install hot reload hot reload Zig test runner Zig bun install hot reload test runner bun install",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1765401538,
+    "authority": 0.8429153614626148,
+    "text": "Deno topic: deno.json bundled tooling std library bundled tooling deno.json TypeScript-first bundled tooling TypeScript-first fetch import URL deno.json fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1765401716,
+    "authority": 0.6605433104513494,
+    "text": "Node topic: require npm require CommonJS LTS Express Express LTS cluster NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765403103,
+    "authority": 0.2872471082277933,
+    "text": "Noise topic: newsletter tutorial learn quickly newsletter tutorial interview questions interview questions newsletter interview questions learn quickly course learn quickly interview questions newsletter bootcamp",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1765401781,
+    "authority": 0.8314675695060589,
+    "text": "Deno topic: deno.json TypeScript-first bundled tooling Web APIs permissions Web APIs bundled tooling fetch std library permissions fetch std library deno.json fetch",
+    "arm_id": "seed:Deno"
+  }
+]

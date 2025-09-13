@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759960298,
+    "authority": 0.7179493345867641,
+    "text": "Node topic: cluster CommonJS cluster worker_threads require NestJS libuv cluster worker_threads LTS libuv package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1759960592,
+    "authority": 0.8087705348589795,
+    "text": "Deno topic: std library import URL std library TypeScript-first TypeScript-first Deno KV bundled tooling Web APIs permissions permissions bundled tooling",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759960449,
+    "authority": 0.6721259212957126,
+    "text": "Node topic: cluster CommonJS libuv libuv LTS Express require NestJS require require LTS require worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759959514,
+    "authority": 0.6901366986049845,
+    "text": "Parent topic: modules runtime workers cjs javascript ts event loop tooling http server tooling tooling http server tooling event loop runtime",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1759957401,
+    "authority": 0.847510851751998,
+    "text": "Deno topic: permissions Web APIs Web APIs fetch bundled tooling import URL bundled tooling Web APIs Web APIs Deno KV Web APIs bundled tooling permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759960049,
+    "authority": 0.672248328982803,
+    "text": "Parent topic: javascript ts workers cjs event loop tooling http server cjs event loop runtime ts tooling event loop ts",
+    "arm_id": "seed:Parent"
+  }
+]

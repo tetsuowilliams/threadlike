@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764366450,
+    "authority": 0.654391858310194,
+    "text": "Bun topic: fast startup fast startup HMR native loader native loader fast startup bun install bun install HMR fast startup fast startup",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1764365684,
+    "authority": 0.6960165760062537,
+    "text": "Node topic: npm Express npm LTS Express Express package.json libuv cluster NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1764363505,
+    "authority": 0.34908125642860854,
+    "text": "Noise topic: learn quickly course interview questions bootcamp bootcamp hiring bootcamp interview questions hiring interview questions",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764365672,
+    "authority": 0.897726323194573,
+    "text": "Deno topic: import URL Deno KV bundled tooling permissions Web APIs TypeScript-first std library TypeScript-first std library bundled tooling fetch Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764366320,
+    "authority": 0.6411621232596325,
+    "text": "Bun topic: native loader bun install native loader test runner hot reload test runner HMR test runner Zig test runner native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764364858,
+    "authority": 0.8781074058626344,
+    "text": "Deno topic: fetch Web APIs TypeScript-first Web APIs Deno KV deno.json fetch fetch TypeScript-first Web APIs Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1764364594,
+    "authority": 0.2874756290568267,
+    "text": "Noise topic: interview questions bootcamp interview questions tutorial hiring interview questions course tutorial course learn quickly tutorial",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764366867,
+    "authority": 0.634085429634022,
+    "text": "Bun topic: test runner HMR Zig native loader native loader HMR bun install bun install bundler bundler bundler native loader",
+    "arm_id": "seed:Bun"
+  }
+]

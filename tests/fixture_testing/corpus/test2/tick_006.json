@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758142874,
+    "authority": 0.6838203100503317,
+    "text": "Node topic: Express npm require require libuv package.json worker_threads NestJS NestJS libuv Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758144466,
+    "authority": 0.7232352468452498,
+    "text": "Parent topic: modules esm esm tooling runtime cjs modules ts ts event loop modules modules tooling workers javascript",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758142991,
+    "authority": 0.6692407095760744,
+    "text": "Node topic: CommonJS CommonJS require LTS NestJS require LTS LTS NestJS CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758142709,
+    "authority": 0.7372890986264052,
+    "text": "Node topic: require LTS CommonJS libuv cluster package.json require require require Express NestJS LTS package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758143066,
+    "authority": 0.6748465283089184,
+    "text": "Node topic: npm worker_threads package.json NestJS libuv npm Express LTS package.json package.json LTS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758144235,
+    "authority": 0.705732170245704,
+    "text": "Parent topic: workers event loop esm javascript modules runtime http server cjs esm workers modules esm event loop cjs",
+    "arm_id": "seed:Parent"
+  }
+]

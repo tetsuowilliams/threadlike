@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757710971,
+    "authority": 0.6983834656416269,
+    "text": "Node topic: CommonJS CommonJS Express npm package.json cluster CommonJS require Express Express CommonJS package.json LTS NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757712638,
+    "authority": 0.6699917983395149,
+    "text": "Node topic: npm package.json libuv LTS Express require libuv libuv cluster cluster worker_threads worker_threads CommonJS require NestJS package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757713149,
+    "authority": 0.7015491433070777,
+    "text": "Parent topic: esm esm http server tooling esm javascript http server cjs tooling modules event loop",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757713253,
+    "authority": 0.7028109440938306,
+    "text": "Node topic: CommonJS Express require package.json CommonJS npm LTS libuv CommonJS libuv npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757711341,
+    "authority": 0.6650920905791109,
+    "text": "Parent topic: cjs ts javascript http server tooling ts ts ts esm http server cjs ts modules",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757710620,
+    "authority": 0.6552575603890266,
+    "text": "Node topic: cluster npm package.json worker_threads package.json worker_threads Express Express CommonJS cluster npm npm require CommonJS Express",
+    "arm_id": "seed:Node"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758922711,
+    "authority": 0.7391135354995921,
+    "text": "Node topic: npm npm LTS cluster require CommonJS CommonJS require worker_threads Express CommonJS LTS worker_threads CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758920231,
+    "authority": 0.6685889724504717,
+    "text": "Parent topic: modules cjs event loop ts ts http server esm tooling runtime ts cjs ts esm cjs esm http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758922813,
+    "authority": 0.7331327999719606,
+    "text": "Node topic: worker_threads require require Express NestJS NestJS cluster cluster Express LTS package.json npm package.json LTS worker_threads CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758920336,
+    "authority": 0.71361261281857,
+    "text": "Node topic: NestJS NestJS libuv package.json npm package.json NestJS libuv cluster package.json Express NestJS LTS npm cluster",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758920811,
+    "authority": 0.6984370629989312,
+    "text": "Node topic: npm LTS libuv cluster require NestJS require npm package.json cluster CommonJS CommonJS NestJS package.json NestJS libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758921145,
+    "authority": 0.7062053916757589,
+    "text": "Parent topic: esm esm workers modules tooling esm ts cjs esm runtime workers ts event loop http server",
+    "arm_id": "seed:Parent"
+  }
+]

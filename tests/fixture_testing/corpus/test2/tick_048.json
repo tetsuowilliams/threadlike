@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761773893,
+    "authority": 0.8793906679338328,
+    "text": "Deno topic: Web APIs import URL TypeScript-first permissions bundled tooling permissions deno.json Web APIs Deno KV TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761773748,
+    "authority": 0.812485751252466,
+    "text": "Deno topic: deno.json fetch import URL TypeScript-first import URL fetch Web APIs Web APIs std library fetch import URL permissions std library std library bundled tooling Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761774425,
+    "authority": 0.8899664583392156,
+    "text": "Deno topic: TypeScript-first TypeScript-first Deno KV permissions Web APIs std library fetch bundled tooling deno.json import URL bundled tooling Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761772350,
+    "authority": 0.7296548158120911,
+    "text": "Node topic: cluster cluster npm package.json libuv NestJS Express worker_threads worker_threads package.json require Express require CommonJS Express npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761774468,
+    "authority": 0.6639088033565697,
+    "text": "Node topic: require cluster Express package.json CommonJS libuv Express package.json Express package.json package.json package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1761774750,
+    "authority": 0.7254839853573847,
+    "text": "Parent topic: cjs cjs runtime esm modules http server event loop ts workers esm modules ts modules workers",
+    "arm_id": "seed:Parent"
+  }
+]

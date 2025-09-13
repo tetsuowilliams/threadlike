@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757971430,
+    "authority": 0.7045906251926823,
+    "text": "Parent topic: event loop esm ts modules javascript javascript tooling modules tooling esm http server event loop event loop event loop",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757971193,
+    "authority": 0.6682957887657499,
+    "text": "Node topic: Express libuv LTS libuv cluster npm CommonJS require npm Express Express LTS Express npm package.json require",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757973314,
+    "authority": 0.7457637179860395,
+    "text": "Node topic: npm require cluster require worker_threads npm package.json CommonJS libuv Express require cluster npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757972544,
+    "authority": 0.6555401087436712,
+    "text": "Parent topic: cjs esm esm runtime ts workers runtime modules modules ts javascript event loop ts http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757972903,
+    "authority": 0.7409887653021195,
+    "text": "Node topic: CommonJS package.json worker_threads libuv worker_threads worker_threads NestJS require cluster CommonJS package.json worker_threads libuv NestJS worker_threads libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757969897,
+    "authority": 0.6550780315904073,
+    "text": "Node topic: libuv package.json npm cluster worker_threads worker_threads LTS cluster npm npm cluster LTS Express NestJS",
+    "arm_id": "seed:Node"
+  }
+]

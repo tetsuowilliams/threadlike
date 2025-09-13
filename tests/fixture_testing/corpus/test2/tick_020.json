@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759353497,
+    "authority": 0.6667880431582595,
+    "text": "Node topic: package.json LTS worker_threads package.json libuv package.json require CommonJS worker_threads NestJS npm package.json CommonJS require npm cluster",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759353533,
+    "authority": 0.7064424550565916,
+    "text": "Node topic: Express LTS npm cluster cluster libuv cluster npm LTS npm Express NestJS package.json worker_threads package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759353222,
+    "authority": 0.6856718232591374,
+    "text": "Parent topic: runtime event loop esm tooling modules javascript workers tooling ts cjs modules modules javascript",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759355345,
+    "authority": 0.6909516773449003,
+    "text": "Parent topic: event loop tooling ts modules tooling cjs esm event loop modules javascript",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759354112,
+    "authority": 0.7168775614893744,
+    "text": "Node topic: require NestJS libuv worker_threads CommonJS CommonJS package.json libuv require require",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759352953,
+    "authority": 0.6593906281270817,
+    "text": "Node topic: libuv LTS npm LTS worker_threads require package.json cluster NestJS require NestJS Express",
+    "arm_id": "seed:Node"
+  }
+]

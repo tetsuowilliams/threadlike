@@ -47,6 +47,3 @@ class Doc:
     # Arm/experiment identifier (if A/B testing or multiple retrieval arms).
     # Lets you trace which retrieval strategy brought in this doc.
     arm_id: str
-    
-    # NEW: multiplicity after within-tick dedup aggregation
-    sample_weight: float = 1.0  # counts how many identical records were collapsed

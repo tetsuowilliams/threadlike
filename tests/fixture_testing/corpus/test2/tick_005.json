@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758059579,
+    "authority": 0.6632605072881026,
+    "text": "Node topic: npm NestJS package.json LTS NestJS require require LTS require libuv CommonJS libuv LTS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758058888,
+    "authority": 0.6831772940262707,
+    "text": "Parent topic: esm event loop http server ts javascript modules esm javascript event loop runtime tooling",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758056417,
+    "authority": 0.6775155252622479,
+    "text": "Node topic: package.json CommonJS LTS worker_threads LTS require Express Express LTS libuv Express NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758059295,
+    "authority": 0.6501741381917503,
+    "text": "Node topic: libuv package.json worker_threads require package.json NestJS npm npm NestJS NestJS Express CommonJS Express Express package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758059318,
+    "authority": 0.6734785621831827,
+    "text": "Parent topic: http server javascript modules ts javascript tooling workers http server ts ts",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758056571,
+    "authority": 0.68116746617714,
+    "text": "Node topic: cluster cluster CommonJS NestJS NestJS LTS npm require NestJS worker_threads require NestJS worker_threads LTS libuv",
+    "arm_id": "seed:Node"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762723621,
+    "authority": 0.8910918389157407,
+    "text": "Deno topic: bundled tooling permissions std library import URL std library import URL permissions permissions deno.json fetch permissions TypeScript-first TypeScript-first import URL import URL fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762722302,
+    "authority": 0.7395137288587932,
+    "text": "Parent topic: javascript event loop modules esm workers modules workers event loop event loop workers",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762724074,
+    "authority": 0.632534114494229,
+    "text": "Bun topic: HMR Zig bundler fast startup fast startup native loader test runner Zig bun install HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762724257,
+    "authority": 0.6513065906418931,
+    "text": "Bun topic: native loader Zig bun install Zig test runner test runner test runner fast startup test runner test runner bundler hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762722108,
+    "authority": 0.8604368996006698,
+    "text": "Deno topic: Deno KV TypeScript-first fetch std library Web APIs fetch fetch std library fetch TypeScript-first TypeScript-first Web APIs import URL fetch Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762722895,
+    "authority": 0.7151674199469095,
+    "text": "Node topic: NestJS NestJS NestJS CommonJS LTS Express CommonJS NestJS worker_threads Express libuv libuv package.json libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762722278,
+    "authority": 0.8058401233429258,
+    "text": "Deno topic: deno.json bundled tooling std library import URL deno.json bundled tooling import URL bundled tooling Web APIs import URL deno.json",
+    "arm_id": "seed:Deno"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760648915,
+    "authority": 0.6663884366746523,
+    "text": "Parent topic: javascript tooling javascript tooling workers tooling http server javascript tooling javascript event loop runtime tooling cjs cjs event loop",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760649722,
+    "authority": 0.7006783092440866,
+    "text": "Node topic: LTS Express package.json package.json NestJS CommonJS npm package.json CommonJS NestJS libuv CommonJS NestJS CommonJS libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760649907,
+    "authority": 0.8317478261443289,
+    "text": "Deno topic: TypeScript-first std library TypeScript-first permissions Deno KV permissions deno.json TypeScript-first Deno KV import URL permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760651584,
+    "authority": 0.881914448784395,
+    "text": "Deno topic: Deno KV TypeScript-first permissions fetch bundled tooling std library import URL TypeScript-first import URL permissions import URL permissions deno.json Deno KV Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760649441,
+    "authority": 0.7287726170063216,
+    "text": "Parent topic: ts ts esm modules javascript tooling modules cjs modules event loop javascript cjs http server esm workers runtime",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760649083,
+    "authority": 0.7201408666151848,
+    "text": "Node topic: require libuv LTS LTS worker_threads libuv require npm CommonJS npm worker_threads",
+    "arm_id": "seed:Node"
+  }
+]

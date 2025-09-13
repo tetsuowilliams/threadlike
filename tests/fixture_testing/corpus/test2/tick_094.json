@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765747677,
+    "authority": 0.6565034978548482,
+    "text": "Bun topic: bundler bun install native loader bundler test runner HMR bun install HMR hot reload hot reload bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1765746296,
+    "authority": 0.8794562819884912,
+    "text": "Deno topic: Web APIs TypeScript-first deno.json bundled tooling fetch Web APIs permissions TypeScript-first deno.json fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765747020,
+    "authority": 0.3440833876816422,
+    "text": "Noise topic: tutorial interview questions tutorial tutorial learn quickly tutorial learn quickly tutorial hiring course tutorial learn quickly",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765746097,
+    "authority": 0.6761133318291407,
+    "text": "Bun topic: bun install fast startup native loader test runner native loader bundler test runner fast startup HMR bundler bun install native loader native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1765748402,
+    "authority": 0.6789649730346331,
+    "text": "Node topic: npm NestJS npm CommonJS NestJS NestJS package.json NestJS package.json NestJS CommonJS package.json CommonJS package.json npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765747241,
+    "authority": 0.29122546520175185,
+    "text": "Noise topic: course newsletter course interview questions learn quickly course tutorial interview questions course tutorial interview questions",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://random.forum/noise/2",
+    "title": "Noise doc 2",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765746257,
+    "authority": 0.346399387306482,
+    "text": "Noise topic: interview questions interview questions course interview questions interview questions newsletter tutorial tutorial course course learn quickly bootcamp",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765749040,
+    "authority": 0.6795353184546817,
+    "text": "Bun topic: fast startup fast startup native loader bun install test runner hot reload bun install fast startup hot reload native loader test runner Zig Zig native loader bundler",
+    "arm_id": "seed:Bun"
+  }
+]

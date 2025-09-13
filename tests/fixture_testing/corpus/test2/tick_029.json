@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760132983,
+    "authority": 0.6896074187522582,
+    "text": "Parent topic: event loop ts workers tooling ts ts modules runtime esm ts event loop http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760132019,
+    "authority": 0.8188176946868245,
+    "text": "Deno topic: permissions import URL fetch import URL permissions Deno KV bundled tooling import URL TypeScript-first fetch fetch std library permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760132704,
+    "authority": 0.6834427670094736,
+    "text": "Parent topic: tooling javascript workers workers esm workers runtime javascript modules cjs cjs ts esm ts workers",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760132268,
+    "authority": 0.8494359917847998,
+    "text": "Deno topic: fetch import URL bundled tooling permissions deno.json Deno KV import URL std library Deno KV std library TypeScript-first std library TypeScript-first import URL std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760131267,
+    "authority": 0.6804237243387703,
+    "text": "Node topic: LTS libuv CommonJS worker_threads require libuv cluster LTS npm CommonJS LTS libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760131456,
+    "authority": 0.6718314245698559,
+    "text": "Node topic: Express worker_threads NestJS package.json npm NestJS package.json require require npm CommonJS require worker_threads",
+    "arm_id": "seed:Node"
+  }
+]

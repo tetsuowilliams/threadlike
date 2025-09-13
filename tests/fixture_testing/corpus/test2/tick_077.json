@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://bun.sh/bun/3",
+    "title": "Bun doc 3",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764280537,
+    "authority": 0.6325429145108042,
+    "text": "Bun topic: bundler fast startup hot reload fast startup fast startup hot reload native loader Zig fast startup fast startup native loader native loader bundler test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1764279104,
+    "authority": 0.6756562292544139,
+    "text": "Node topic: libuv npm NestJS cluster require CommonJS package.json package.json NestJS CommonJS LTS cluster cluster Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764279178,
+    "authority": 0.6608503471089305,
+    "text": "Bun topic: test runner test runner hot reload bun install fast startup fast startup bun install hot reload native loader HMR HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764280142,
+    "authority": 0.6956974554536132,
+    "text": "Bun topic: test runner hot reload hot reload hot reload test runner Zig bun install test runner bun install Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764279765,
+    "authority": 0.8222995235046991,
+    "text": "Deno topic: fetch deno.json std library std library TypeScript-first fetch Deno KV Web APIs Web APIs fetch TypeScript-first std library Deno KV Web APIs Web APIs deno.json",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764280120,
+    "authority": 0.8542537293091848,
+    "text": "Deno topic: import URL permissions fetch deno.json fetch import URL import URL Deno KV deno.json fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764280046,
+    "authority": 0.6561164800180839,
+    "text": "Bun topic: fast startup hot reload test runner bun install fast startup native loader native loader bun install bun install hot reload test runner HMR hot reload bundler native loader bun install",
+    "arm_id": "seed:Bun"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760046538,
+    "authority": 0.7497268212508558,
+    "text": "Node topic: NestJS npm require CommonJS LTS package.json cluster package.json libuv require",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760046660,
+    "authority": 0.6939878323030294,
+    "text": "Parent topic: cjs cjs event loop javascript modules esm cjs event loop javascript modules",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760045922,
+    "authority": 0.6729209012337181,
+    "text": "Node topic: require NestJS npm LTS NestJS NestJS npm package.json npm cluster cluster libuv package.json LTS cluster NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760046281,
+    "authority": 0.8956960552477052,
+    "text": "Deno topic: Web APIs bundled tooling TypeScript-first permissions Deno KV deno.json deno.json Web APIs deno.json import URL Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760043504,
+    "authority": 0.833377944101853,
+    "text": "Deno topic: TypeScript-first deno.json permissions bundled tooling import URL TypeScript-first permissions std library Web APIs import URL std library std library TypeScript-first import URL",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760044867,
+    "authority": 0.7316545073716302,
+    "text": "Parent topic: cjs ts ts workers javascript esm esm tooling tooling cjs http server",
+    "arm_id": "seed:Parent"
+  }
+]

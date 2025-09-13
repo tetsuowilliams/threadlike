@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757886169,
+    "authority": 0.6815979794208303,
+    "text": "Parent topic: tooling ts tooling esm tooling ts modules modules ts esm http server http server cjs",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757883692,
+    "authority": 0.7356228636372149,
+    "text": "Node topic: package.json require CommonJS LTS libuv worker_threads npm npm cluster NestJS npm LTS cluster package.json npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757886899,
+    "authority": 0.7319777268337117,
+    "text": "Node topic: libuv require LTS CommonJS LTS require package.json npm require LTS CommonJS worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1757883805,
+    "authority": 0.7246682092193545,
+    "text": "Parent topic: http server esm cjs runtime workers modules event loop cjs esm runtime http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757884994,
+    "authority": 0.7203151375190033,
+    "text": "Node topic: package.json CommonJS cluster require worker_threads LTS NestJS NestJS Express npm Express Express NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1757884697,
+    "authority": 0.6701768248768499,
+    "text": "Node topic: package.json NestJS Express libuv LTS require CommonJS libuv require CommonJS CommonJS npm",
+    "arm_id": "seed:Node"
+  }
+]

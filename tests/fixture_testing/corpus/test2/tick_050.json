@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1761946665,
+    "authority": 0.6753535547699641,
+    "text": "Bun topic: Zig hot reload bun install hot reload HMR bundler native loader fast startup HMR bun install fast startup",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761944658,
+    "authority": 0.8720137297413888,
+    "text": "Deno topic: fetch permissions Deno KV TypeScript-first permissions TypeScript-first fetch permissions deno.json TypeScript-first deno.json Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761946636,
+    "authority": 0.7291016491700859,
+    "text": "Node topic: Express cluster LTS NestJS NestJS require libuv cluster worker_threads LTS CommonJS Express package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1761945031,
+    "authority": 0.6672486289897492,
+    "text": "Bun topic: hot reload bun install bun install bun install bun install native loader native loader bun install bundler bundler Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761945581,
+    "authority": 0.827581939765266,
+    "text": "Deno topic: Web APIs bundled tooling import URL Web APIs deno.json std library import URL fetch deno.json std library std library std library bundled tooling Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1761947203,
+    "authority": 0.734949890363542,
+    "text": "Parent topic: runtime javascript workers modules http server cjs http server cjs event loop cjs runtime ts tooling javascript",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761945652,
+    "authority": 0.8895148754267618,
+    "text": "Deno topic: Deno KV std library bundled tooling Web APIs std library permissions permissions bundled tooling fetch TypeScript-first deno.json Web APIs Web APIs std library",
+    "arm_id": "seed:Deno"
+  }
+]

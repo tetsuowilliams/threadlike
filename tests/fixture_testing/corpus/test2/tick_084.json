@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764882016,
+    "authority": 0.6999543829218525,
+    "text": "Bun topic: bun install test runner Zig Zig bun install bun install native loader HMR bun install HMR test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1764885018,
+    "authority": 0.2534831681763474,
+    "text": "Noise topic: hiring learn quickly bootcamp interview questions bootcamp interview questions interview questions newsletter learn quickly interview questions course learn quickly",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764882537,
+    "authority": 0.6192539304211883,
+    "text": "Bun topic: bun install HMR hot reload HMR Zig fast startup fast startup native loader HMR native loader bundler Zig bun install",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764885132,
+    "authority": 0.8132171719769423,
+    "text": "Deno topic: permissions std library Deno KV bundled tooling import URL bundled tooling std library import URL TypeScript-first std library TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764884130,
+    "authority": 0.6378618099210931,
+    "text": "Bun topic: bundler bun install Zig hot reload fast startup bun install Zig test runner hot reload native loader Zig test runner HMR Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1764884380,
+    "authority": 0.6555509261885637,
+    "text": "Node topic: LTS require worker_threads worker_threads libuv LTS LTS Express NestJS LTS require",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1764883735,
+    "authority": 0.29182977598122145,
+    "text": "Noise topic: newsletter learn quickly tutorial bootcamp course newsletter newsletter tutorial course interview questions tutorial learn quickly interview questions newsletter course",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764882415,
+    "authority": 0.8208863182404238,
+    "text": "Deno topic: Web APIs TypeScript-first std library Deno KV fetch TypeScript-first Web APIs fetch permissions bundled tooling bundled tooling std library",
+    "arm_id": "seed:Deno"
+  }
+]

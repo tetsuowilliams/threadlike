@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759438784,
+    "authority": 0.7309268593640552,
+    "text": "Parent topic: modules esm http server event loop cjs tooling javascript http server tooling javascript runtime modules workers modules event loop",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759441645,
+    "authority": 0.7459304777366365,
+    "text": "Node topic: CommonJS npm package.json NestJS npm Express NestJS worker_threads CommonJS require",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759441782,
+    "authority": 0.6795504257506932,
+    "text": "Node topic: require libuv Express libuv npm Express package.json require libuv NestJS require LTS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759440285,
+    "authority": 0.7385190459293123,
+    "text": "Node topic: CommonJS Express CommonJS npm LTS LTS LTS npm libuv LTS NestJS libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759439612,
+    "authority": 0.6810504541031736,
+    "text": "Node topic: require require npm libuv package.json cluster libuv cluster require worker_threads NestJS libuv cluster NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759438781,
+    "authority": 0.6736652336648596,
+    "text": "Parent topic: ts event loop modules event loop event loop ts javascript runtime runtime javascript",
+    "arm_id": "seed:Parent"
+  }
+]

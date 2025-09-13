@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758576272,
+    "authority": 0.6698942148552063,
+    "text": "Parent topic: cjs event loop modules http server esm modules http server tooling event loop esm cjs",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758577441,
+    "authority": 0.7021452513188449,
+    "text": "Parent topic: event loop esm cjs cjs workers esm workers javascript ts modules http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758577140,
+    "authority": 0.673004730177489,
+    "text": "Node topic: require libuv package.json worker_threads Express Express Express CommonJS Express npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758576620,
+    "authority": 0.6547776364773685,
+    "text": "Node topic: LTS require libuv Express LTS package.json LTS package.json worker_threads worker_threads require require cluster NestJS Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758576054,
+    "authority": 0.7320880685466015,
+    "text": "Node topic: npm package.json worker_threads NestJS npm CommonJS cluster require package.json LTS npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758575269,
+    "authority": 0.732847170140521,
+    "text": "Node topic: cluster npm npm libuv Express libuv libuv NestJS Express CommonJS Express",
+    "arm_id": "seed:Node"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762549859,
+    "authority": 0.6587377226874725,
+    "text": "Node topic: CommonJS Express LTS npm worker_threads npm worker_threads cluster Express worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762551359,
+    "authority": 0.8248735579500305,
+    "text": "Deno topic: fetch Deno KV std library permissions Web APIs bundled tooling bundled tooling permissions Deno KV std library permissions bundled tooling permissions bundled tooling import URL",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762551491,
+    "authority": 0.7134310277840668,
+    "text": "Parent topic: modules modules javascript event loop esm javascript ts http server esm runtime cjs",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762550562,
+    "authority": 0.8542807195067392,
+    "text": "Deno topic: import URL bundled tooling Web APIs TypeScript-first TypeScript-first deno.json deno.json bundled tooling import URL Web APIs import URL fetch std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762549716,
+    "authority": 0.6700686751136398,
+    "text": "Bun topic: hot reload test runner test runner bun install test runner Zig fast startup test runner fast startup fast startup test runner fast startup bundler Zig Zig hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762552157,
+    "authority": 0.8624189240884411,
+    "text": "Deno topic: fetch fetch bundled tooling permissions deno.json bundled tooling Web APIs permissions deno.json TypeScript-first TypeScript-first std library fetch Web APIs std library Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762551659,
+    "authority": 0.6317757056811376,
+    "text": "Bun topic: native loader bun install hot reload HMR HMR fast startup native loader HMR fast startup bundler bundler hot reload",
+    "arm_id": "seed:Bun"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761340131,
+    "authority": 0.6984962340291743,
+    "text": "Node topic: npm Express Express require NestJS NestJS CommonJS libuv NestJS NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761340721,
+    "authority": 0.8453014445535815,
+    "text": "Deno topic: TypeScript-first bundled tooling Web APIs deno.json permissions fetch permissions TypeScript-first deno.json bundled tooling Web APIs Deno KV TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761342934,
+    "authority": 0.861114222459656,
+    "text": "Deno topic: std library TypeScript-first permissions deno.json std library deno.json std library TypeScript-first Web APIs Web APIs permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761339450,
+    "authority": 0.6762921146077366,
+    "text": "Node topic: worker_threads Express CommonJS cluster package.json LTS CommonJS worker_threads LTS npm cluster package.json worker_threads package.json require package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1761340932,
+    "authority": 0.6676328347164093,
+    "text": "Parent topic: esm javascript http server ts javascript esm javascript tooling javascript esm esm modules modules cjs tooling",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761341346,
+    "authority": 0.8024472621407832,
+    "text": "Deno topic: permissions import URL std library permissions bundled tooling Web APIs permissions TypeScript-first import URL Web APIs",
+    "arm_id": "seed:Deno"
+  }
+]

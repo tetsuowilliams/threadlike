@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1766092015,
+    "authority": 0.6622765605302782,
+    "text": "Bun topic: fast startup test runner test runner native loader bundler HMR fast startup bundler test runner Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1766093395,
+    "authority": 0.666592822494692,
+    "text": "Bun topic: test runner HMR Zig native loader native loader HMR test runner native loader HMR hot reload Zig Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1766094719,
+    "authority": 0.26376512576170635,
+    "text": "Noise topic: course bootcamp interview questions learn quickly learn quickly learn quickly bootcamp tutorial bootcamp course bootcamp bootcamp interview questions",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1766094659,
+    "authority": 0.2626836607277548,
+    "text": "Noise topic: learn quickly learn quickly tutorial interview questions hiring newsletter learn quickly tutorial interview questions hiring newsletter interview questions tutorial",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1766091429,
+    "authority": 0.6817804616756398,
+    "text": "Bun topic: bun install test runner hot reload Zig HMR bun install bun install bundler Zig bun install Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1766093001,
+    "authority": 0.8251405512286739,
+    "text": "Deno topic: Web APIs import URL std library fetch Deno KV permissions Web APIs deno.json Deno KV std library deno.json TypeScript-first bundled tooling permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://random.forum/noise/2",
+    "title": "Noise doc 2",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1766092103,
+    "authority": 0.2762600558919506,
+    "text": "Noise topic: course hiring course newsletter hiring course newsletter newsletter hiring hiring tutorial hiring bootcamp tutorial",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1766094515,
+    "authority": 0.661464344144902,
+    "text": "Node topic: LTS libuv libuv NestJS libuv package.json libuv libuv Express CommonJS require npm require npm NestJS libuv",
+    "arm_id": "seed:Node"
+  }
+]

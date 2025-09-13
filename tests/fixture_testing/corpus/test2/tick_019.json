@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759268394,
+    "authority": 0.7169899535981994,
+    "text": "Node topic: package.json libuv require CommonJS cluster package.json package.json worker_threads worker_threads CommonJS CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759268440,
+    "authority": 0.6644351169307762,
+    "text": "Node topic: LTS libuv package.json CommonJS worker_threads LTS NestJS require require require Express NestJS CommonJS package.json LTS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759268354,
+    "authority": 0.6720552310927111,
+    "text": "Parent topic: cjs esm runtime http server runtime esm runtime event loop javascript workers runtime javascript modules",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759269046,
+    "authority": 0.655685292654485,
+    "text": "Node topic: package.json require NestJS CommonJS require package.json Express CommonJS NestJS Express LTS CommonJS LTS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759266560,
+    "authority": 0.6776847247565834,
+    "text": "Node topic: NestJS libuv libuv NestJS worker_threads LTS require Express npm NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759266412,
+    "authority": 0.6951377679060206,
+    "text": "Parent topic: cjs workers workers modules modules cjs javascript javascript modules cjs esm runtime cjs cjs workers runtime",
+    "arm_id": "seed:Parent"
+  }
+]

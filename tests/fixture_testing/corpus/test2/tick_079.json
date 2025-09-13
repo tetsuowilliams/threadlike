@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764452617,
+    "authority": 0.6295360009884046,
+    "text": "Bun topic: HMR bun install Zig bundler native loader bundler native loader Zig native loader hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1764452735,
+    "authority": 0.2683941563144364,
+    "text": "Noise topic: bootcamp hiring learn quickly interview questions learn quickly bootcamp hiring learn quickly bootcamp hiring tutorial",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764452134,
+    "authority": 0.8162691906013647,
+    "text": "Deno topic: TypeScript-first fetch import URL std library deno.json permissions bundled tooling fetch std library import URL Web APIs permissions TypeScript-first Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1764451962,
+    "authority": 0.6986707940205679,
+    "text": "Node topic: libuv require CommonJS package.json libuv package.json require libuv require package.json require cluster libuv Express npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764450707,
+    "authority": 0.6475927837810069,
+    "text": "Bun topic: bun install bun install bundler native loader Zig hot reload native loader Zig bun install hot reload HMR fast startup bun install fast startup",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764452600,
+    "authority": 0.682194247853375,
+    "text": "Bun topic: HMR hot reload fast startup fast startup Zig test runner hot reload hot reload hot reload test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1764452236,
+    "authority": 0.2588150583482304,
+    "text": "Noise topic: learn quickly learn quickly course hiring learn quickly newsletter course interview questions bootcamp bootcamp course bootcamp learn quickly",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764451890,
+    "authority": 0.8420323958188655,
+    "text": "Deno topic: fetch permissions permissions deno.json fetch deno.json import URL TypeScript-first TypeScript-first Deno KV Web APIs permissions Web APIs bundled tooling std library import URL",
+    "arm_id": "seed:Deno"
+  }
+]

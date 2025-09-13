@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763240700,
+    "authority": 0.650262412385064,
+    "text": "Bun topic: native loader Zig bundler HMR test runner Zig test runner bun install HMR fast startup bundler fast startup bun install HMR HMR bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1763242944,
+    "authority": 0.8498327652912347,
+    "text": "Deno topic: deno.json permissions fetch import URL TypeScript-first bundled tooling fetch TypeScript-first Deno KV deno.json Web APIs fetch std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1763242167,
+    "authority": 0.7061765009027647,
+    "text": "Node topic: CommonJS CommonJS require libuv NestJS Express libuv worker_threads worker_threads Express LTS worker_threads",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1763240934,
+    "authority": 0.8528245738803912,
+    "text": "Deno topic: permissions import URL std library bundled tooling permissions Deno KV TypeScript-first deno.json permissions permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763243509,
+    "authority": 0.6384447372001087,
+    "text": "Bun topic: fast startup fast startup native loader Zig bun install hot reload bun install fast startup native loader test runner native loader HMR fast startup bun install hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/3",
+    "title": "Bun doc 3",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763242824,
+    "authority": 0.6146496512203617,
+    "text": "Bun topic: native loader Zig bun install hot reload HMR Zig fast startup test runner bun install hot reload test runner bun install bundler hot reload native loader bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763243104,
+    "authority": 0.6082449469927877,
+    "text": "Bun topic: HMR fast startup test runner Zig bun install HMR bun install fast startup native loader HMR hot reload hot reload hot reload",
+    "arm_id": "seed:Bun"
+  }
+]

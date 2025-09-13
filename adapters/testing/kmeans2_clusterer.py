@@ -13,7 +13,7 @@ class KMeans2Clusterer(Clusterer):
     def __init__(self, max_iter=10):
         self.max_iter = max_iter
     
-    def cluster(self, parent: Topic, docs_window: list[Doc]) -> list[ClusterSnapshot]:
+    def cluster(self, centroid_long: Vector, docs_window: list[Doc]) -> list[ClusterSnapshot]:
         if not docs_window: 
             return []
         
@@ -47,7 +47,7 @@ class KMeans2Clusterer(Clusterer):
             coh_w = num / max(size_w, 1e-12)
             
             # separation uses parent long-term centroid (unweighted)
-            parent_c = parent.centroid_long or vc
+            parent_c = centroid_long or vc
             sep = 1.0 - cos(parent_c, vc)
             snaps.append(ClusterSnapshot(
                 cluster_id=cid,
@@ -58,20 +58,5 @@ class KMeans2Clusterer(Clusterer):
                 doc_ids=[d.id for d in group],
             ))
         return snaps
-    
-    def _snap(self, cid: str, centroid: Vector, docs: List[Doc], parent: Topic) -> ClusterSnapshot:
-        # cohesion = mean cos to centroid
-        sims = [cos(d.vec, centroid) for d in docs]
-        cohesion = sum(sims)/len(sims)
-        
-        # separation = 1 - cos(parent_long, centroid)
-        parent_c = parent.centroid_long or centroid
-        separation = 1.0 - cos(parent_c, centroid)
-        
-        return ClusterSnapshot(
-            cluster_id=cid, centroid_now=centroid, size=len(docs),
-            cohesion_now=cohesion, separation_now=separation,
-            doc_ids=[d.id for d in docs]
-        )
 
 

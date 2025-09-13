@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760737461,
+    "authority": 0.675930585584364,
+    "text": "Node topic: package.json npm Express NestJS cluster LTS libuv package.json NestJS worker_threads NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760734876,
+    "authority": 0.7103500587019244,
+    "text": "Parent topic: tooling runtime workers workers esm modules event loop workers javascript javascript ts javascript tooling cjs javascript",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760735094,
+    "authority": 0.7445938956979805,
+    "text": "Node topic: LTS worker_threads package.json package.json libuv NestJS package.json worker_threads package.json require LTS libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760737056,
+    "authority": 0.8339591448480483,
+    "text": "Deno topic: std library fetch fetch Deno KV bundled tooling fetch std library TypeScript-first import URL fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760737529,
+    "authority": 0.8685326262485503,
+    "text": "Deno topic: bundled tooling fetch deno.json fetch deno.json permissions Web APIs deno.json Web APIs bundled tooling",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760735387,
+    "authority": 0.899246097557999,
+    "text": "Deno topic: std library deno.json deno.json import URL bundled tooling fetch Web APIs std library deno.json permissions Web APIs TypeScript-first std library Web APIs TypeScript-first std library",
+    "arm_id": "seed:Deno"
+  }
+]

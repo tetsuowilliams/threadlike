@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765144326,
+    "authority": 0.647049180649814,
+    "text": "Bun topic: test runner hot reload test runner test runner bun install native loader test runner Zig bundler fast startup HMR fast startup bundler native loader Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://random.forum/noise/1",
+    "title": "Noise doc 1",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765144066,
+    "authority": 0.3195252216906657,
+    "text": "Noise topic: learn quickly tutorial hiring hiring course newsletter interview questions course newsletter tutorial newsletter learn quickly bootcamp",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765142290,
+    "authority": 0.6342421937934155,
+    "text": "Bun topic: bundler fast startup bundler bun install test runner native loader fast startup test runner test runner fast startup bundler hot reload native loader hot reload bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1765143977,
+    "authority": 0.7087606120516728,
+    "text": "Node topic: CommonJS require cluster NestJS worker_threads libuv Express Express cluster npm NestJS cluster NestJS CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://random.forum/noise/0",
+    "title": "Noise doc 0",
+    "domain": "random.forum",
+    "type": "forum",
+    "ts": 1765143840,
+    "authority": 0.30676204320876815,
+    "text": "Noise topic: learn quickly tutorial bootcamp course hiring newsletter learn quickly bootcamp learn quickly hiring learn quickly tutorial",
+    "arm_id": "seed:Noise"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1765142916,
+    "authority": 0.8231518807735547,
+    "text": "Deno topic: std library Web APIs fetch import URL Web APIs bundled tooling Deno KV TypeScript-first std library Web APIs permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1765141460,
+    "authority": 0.6295116312972264,
+    "text": "Bun topic: native loader native loader bun install native loader hot reload HMR bundler bun install test runner hot reload bundler hot reload bun install fast startup native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1765142517,
+    "authority": 0.8395157680877324,
+    "text": "Deno topic: bundled tooling TypeScript-first Web APIs permissions deno.json deno.json std library import URL Web APIs TypeScript-first TypeScript-first import URL permissions",
+    "arm_id": "seed:Deno"
+  }
+]

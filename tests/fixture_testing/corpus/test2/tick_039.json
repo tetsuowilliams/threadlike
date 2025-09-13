@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760995531,
+    "authority": 0.8353906767112323,
+    "text": "Deno topic: bundled tooling TypeScript-first Deno KV fetch Deno KV Deno KV permissions Deno KV fetch deno.json fetch TypeScript-first Deno KV import URL TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760996398,
+    "authority": 0.6724470967755836,
+    "text": "Node topic: npm cluster CommonJS require npm NestJS libuv package.json npm package.json CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760995997,
+    "authority": 0.8371348768184635,
+    "text": "Deno topic: bundled tooling deno.json TypeScript-first permissions std library bundled tooling std library Deno KV fetch TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760995353,
+    "authority": 0.6768058064758121,
+    "text": "Node topic: LTS libuv require libuv package.json require LTS libuv worker_threads require CommonJS package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760994133,
+    "authority": 0.875955616827464,
+    "text": "Deno topic: import URL deno.json import URL import URL std library bundled tooling fetch import URL permissions import URL permissions permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760995151,
+    "authority": 0.6621838367272879,
+    "text": "Parent topic: ts workers workers event loop tooling event loop modules cjs cjs tooling ts javascript javascript tooling",
+    "arm_id": "seed:Parent"
+  }
+]

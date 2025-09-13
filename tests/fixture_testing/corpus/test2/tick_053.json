@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762206230,
+    "authority": 0.6446900503668067,
+    "text": "Bun topic: hot reload bundler bun install hot reload bundler test runner fast startup fast startup test runner bun install fast startup bun install fast startup",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762203995,
+    "authority": 0.823617793189483,
+    "text": "Deno topic: permissions TypeScript-first fetch permissions deno.json import URL TypeScript-first Web APIs Web APIs Deno KV Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762205172,
+    "authority": 0.7014403046279561,
+    "text": "Node topic: libuv worker_threads LTS cluster Express LTS npm libuv cluster NestJS package.json package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762206656,
+    "authority": 0.6818742183038492,
+    "text": "Bun topic: bundler HMR hot reload bun install Zig hot reload Zig HMR hot reload native loader native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762203620,
+    "authority": 0.8992569966872952,
+    "text": "Deno topic: bundled tooling TypeScript-first bundled tooling std library Deno KV fetch import URL std library Web APIs TypeScript-first bundled tooling",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762204085,
+    "authority": 0.8543523431879756,
+    "text": "Deno topic: fetch TypeScript-first TypeScript-first TypeScript-first std library Web APIs std library std library std library permissions bundled tooling std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762203918,
+    "authority": 0.6710570439190209,
+    "text": "Parent topic: javascript esm ts event loop tooling cjs workers tooling runtime tooling modules modules esm",
+    "arm_id": "seed:Parent"
+  }
+]

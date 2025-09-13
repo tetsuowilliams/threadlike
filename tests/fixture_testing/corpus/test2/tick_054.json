@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762292530,
+    "authority": 0.7201628381183184,
+    "text": "Parent topic: tooling workers runtime http server esm esm esm http server esm http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762291910,
+    "authority": 0.6373700338264804,
+    "text": "Bun topic: test runner fast startup hot reload test runner hot reload fast startup fast startup Zig hot reload native loader hot reload Zig bundler Zig HMR test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762290606,
+    "authority": 0.6556852456502718,
+    "text": "Node topic: CommonJS NestJS libuv require Express require cluster Express npm NestJS package.json npm npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762291801,
+    "authority": 0.8141298547887148,
+    "text": "Deno topic: bundled tooling TypeScript-first Web APIs Web APIs permissions Deno KV Web APIs fetch deno.json bundled tooling fetch Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762292668,
+    "authority": 0.8347974622030164,
+    "text": "Deno topic: permissions Deno KV Deno KV import URL bundled tooling TypeScript-first Deno KV fetch permissions deno.json TypeScript-first import URL Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762293390,
+    "authority": 0.6248962556603337,
+    "text": "Bun topic: Zig bundler test runner Zig Zig HMR native loader bundler Zig test runner fast startup native loader fast startup Zig",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762289993,
+    "authority": 0.8003622555382582,
+    "text": "Deno topic: std library Deno KV deno.json bundled tooling std library TypeScript-first TypeScript-first Deno KV fetch import URL permissions fetch Deno KV permissions std library Deno KV",
+    "arm_id": "seed:Deno"
+  }
+]

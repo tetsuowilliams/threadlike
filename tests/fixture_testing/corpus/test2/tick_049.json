@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761859757,
+    "authority": 0.8592051256345574,
+    "text": "Deno topic: Deno KV bundled tooling deno.json fetch std library std library deno.json import URL Web APIs permissions import URL permissions deno.json std library fetch Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1761859368,
+    "authority": 0.6643254672027106,
+    "text": "Parent topic: cjs workers modules esm cjs cjs workers runtime tooling tooling event loop",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761859492,
+    "authority": 0.854301935684716,
+    "text": "Deno topic: Web APIs TypeScript-first fetch fetch bundled tooling import URL std library deno.json permissions permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761860113,
+    "authority": 0.7432626479524667,
+    "text": "Node topic: libuv worker_threads CommonJS LTS libuv worker_threads package.json Express LTS require npm libuv package.json LTS LTS libuv",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761859912,
+    "authority": 0.8424410797097505,
+    "text": "Deno topic: permissions fetch Web APIs deno.json fetch deno.json permissions fetch bundled tooling Deno KV TypeScript-first Web APIs import URL permissions fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761859213,
+    "authority": 0.6505671410282593,
+    "text": "Node topic: CommonJS cluster package.json NestJS cluster require require NestJS libuv NestJS npm",
+    "arm_id": "seed:Node"
+  }
+]

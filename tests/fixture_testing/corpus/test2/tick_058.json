@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762638747,
+    "authority": 0.6752468366553509,
+    "text": "Node topic: CommonJS NestJS package.json LTS cluster libuv LTS CommonJS Express CommonJS package.json LTS CommonJS Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762639002,
+    "authority": 0.6817841724537093,
+    "text": "Bun topic: bundler hot reload hot reload hot reload Zig bun install native loader hot reload HMR bun install test runner HMR bundler bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762636336,
+    "authority": 0.8533502685967519,
+    "text": "Deno topic: fetch permissions Deno KV Web APIs Web APIs TypeScript-first deno.json std library deno.json std library import URL",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762635621,
+    "authority": 0.8211096604622267,
+    "text": "Deno topic: std library import URL fetch Deno KV Deno KV import URL Web APIs Deno KV deno.json fetch bundled tooling fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762635743,
+    "authority": 0.604853458456955,
+    "text": "Bun topic: HMR native loader hot reload bundler HMR bun install test runner HMR native loader Zig bundler bun install",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762638066,
+    "authority": 0.738953464305062,
+    "text": "Parent topic: workers ts runtime tooling runtime event loop http server javascript modules ts http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762638509,
+    "authority": 0.8413562678650621,
+    "text": "Deno topic: fetch TypeScript-first import URL bundled tooling permissions permissions deno.json fetch deno.json permissions TypeScript-first bundled tooling deno.json deno.json fetch",
+    "arm_id": "seed:Deno"
+  }
+]

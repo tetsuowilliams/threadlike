@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761428574,
+    "authority": 0.7242414001316603,
+    "text": "Node topic: Express Express CommonJS npm npm CommonJS Express NestJS npm Express package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1761429257,
+    "authority": 0.7475454286787544,
+    "text": "Parent topic: cjs cjs ts cjs javascript ts event loop event loop event loop javascript http server workers http server ts esm",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761426818,
+    "authority": 0.8116596269952321,
+    "text": "Deno topic: std library TypeScript-first bundled tooling TypeScript-first TypeScript-first deno.json deno.json bundled tooling fetch std library Web APIs fetch fetch import URL Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761425914,
+    "authority": 0.7168668342448252,
+    "text": "Node topic: cluster require package.json require LTS NestJS require LTS Express NestJS Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761426921,
+    "authority": 0.8956932423595156,
+    "text": "Deno topic: import URL fetch TypeScript-first deno.json permissions import URL Web APIs std library fetch import URL fetch",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761427958,
+    "authority": 0.813708181678114,
+    "text": "Deno topic: std library permissions fetch TypeScript-first import URL deno.json Web APIs import URL Deno KV permissions deno.json permissions bundled tooling permissions",
+    "arm_id": "seed:Deno"
+  }
+]

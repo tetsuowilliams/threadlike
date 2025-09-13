@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758491574,
+    "authority": 0.7118575258403829,
+    "text": "Node topic: Express Express NestJS package.json worker_threads cluster Express require Express Express libuv CommonJS npm LTS NestJS NestJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758490955,
+    "authority": 0.7172253445074921,
+    "text": "Node topic: libuv npm LTS CommonJS Express CommonJS LTS package.json CommonJS package.json package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758488547,
+    "authority": 0.7220393467780066,
+    "text": "Node topic: package.json package.json NestJS npm Express Express package.json libuv cluster npm CommonJS LTS Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758489508,
+    "authority": 0.7412798631807688,
+    "text": "Parent topic: cjs runtime runtime javascript cjs workers workers ts cjs ts javascript",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758489399,
+    "authority": 0.7385694947033151,
+    "text": "Node topic: worker_threads package.json cluster worker_threads npm npm cluster cluster CommonJS CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758490157,
+    "authority": 0.6696112944403199,
+    "text": "Parent topic: event loop event loop javascript workers event loop ts event loop ts event loop event loop",
+    "arm_id": "seed:Parent"
+  }
+]

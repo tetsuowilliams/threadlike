@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763674442,
+    "authority": 0.6979448497478713,
+    "text": "Bun topic: fast startup HMR bundler bundler native loader fast startup hot reload test runner fast startup HMR fast startup test runner Zig Zig fast startup bun install",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1763673120,
+    "authority": 0.8733042480899312,
+    "text": "Deno topic: import URL permissions fetch std library bundled tooling deno.json deno.json permissions bundled tooling import URL fetch TypeScript-first Web APIs",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1763673650,
+    "authority": 0.6853289812169986,
+    "text": "Node topic: require npm NestJS cluster CommonJS package.json package.json package.json package.json NestJS CommonJS require worker_threads LTS CommonJS npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763675002,
+    "authority": 0.6592428496939087,
+    "text": "Bun topic: fast startup bun install fast startup fast startup test runner HMR fast startup test runner bundler native loader fast startup Zig bundler HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/3",
+    "title": "Bun doc 3",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763672683,
+    "authority": 0.6439193849151642,
+    "text": "Bun topic: bundler bun install fast startup Zig test runner bun install HMR bundler Zig hot reload bundler bun install native loader bun install bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1763675430,
+    "authority": 0.6742132343335006,
+    "text": "Bun topic: fast startup test runner bun install test runner bun install bun install bun install Zig Zig HMR Zig test runner Zig test runner bun install hot reload",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1763673271,
+    "authority": 0.8877040599105316,
+    "text": "Deno topic: TypeScript-first std library bundled tooling Web APIs bundled tooling deno.json TypeScript-first bundled tooling deno.json import URL std library import URL bundled tooling bundled tooling",
+    "arm_id": "seed:Deno"
+  }
+]

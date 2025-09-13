@@ -190,7 +190,6 @@ class Orchestrator:
                     vec=v,                            # embedding
                     hash=h,                           # for dedup
                     arm_id=p.get("arm_id", ""),       # retrieval arm/experiment tag (optional)
-                    sample_weight=float(p.get("sample_weight", 1.0)),  # <-- carry through
                 )
             )
 
@@ -225,7 +224,7 @@ class Orchestrator:
 
         # Cluster the window to get raw, per-tick snapshots (centroid_now, cohesion_now, separation_now, doc_ids).
         # NOTE: Cluster IDs from the algorithm are NOT stable across ticks (especially with HDBSCAN/k-means).
-        snaps = self.clusterer.cluster(topic, window_docs)
+        snaps = self.clusterer.cluster(topic.centroid_long, window_docs)
 
         # -------- 6) Match raw clusters → persistent states, smooth metrics, promote if ready
         promotions: List[Topic] = []

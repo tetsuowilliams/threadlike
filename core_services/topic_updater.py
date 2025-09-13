@@ -18,8 +18,8 @@ class TopicUpdater:
 
     def apply(self, topic: Topic, docs: list[Doc], now_ts: float) -> None:
         for d in docs:
-            # total weight = authority * recency_decay * multiplicity
-            w = d.authority * self._time_weight(now_ts, d.ts) * d.sample_weight
+            # total weight = authority * recency_decay 
+            w = d.authority * self._time_weight(now_ts, d.ts) 
             topic.centroid_long, topic.weight_sum = weighted_incremental_mean(
                 topic.centroid_long, topic.weight_sum, d.vec, w
             )

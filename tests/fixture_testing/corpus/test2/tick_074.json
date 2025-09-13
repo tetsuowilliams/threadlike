@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764020063,
+    "authority": 0.8486937416663144,
+    "text": "Deno topic: TypeScript-first bundled tooling Web APIs import URL TypeScript-first Deno KV std library import URL deno.json bundled tooling std library deno.json bundled tooling deno.json deno.json",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1764018739,
+    "authority": 0.8492205886648526,
+    "text": "Deno topic: bundled tooling Web APIs fetch bundled tooling Web APIs Deno KV deno.json TypeScript-first Deno KV TypeScript-first",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/2",
+    "title": "Bun doc 2",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764021397,
+    "authority": 0.6779541326640467,
+    "text": "Bun topic: bundler bun install bundler fast startup test runner test runner hot reload bun install test runner HMR bundler test runner bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/3",
+    "title": "Bun doc 3",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764019470,
+    "authority": 0.6279480904001516,
+    "text": "Bun topic: bundler Zig hot reload hot reload HMR bun install HMR Zig fast startup bundler",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764019448,
+    "authority": 0.6006093830673558,
+    "text": "Bun topic: bun install hot reload test runner fast startup hot reload bundler fast startup native loader bundler HMR Zig bundler test runner",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1764020206,
+    "authority": 0.6616173479796752,
+    "text": "Bun topic: native loader native loader bundler fast startup test runner bun install test runner fast startup test runner native loader hot reload native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1764019189,
+    "authority": 0.7328243987529167,
+    "text": "Node topic: CommonJS require Express Express Express LTS NestJS libuv LTS cluster libuv",
+    "arm_id": "seed:Node"
+  }
+]

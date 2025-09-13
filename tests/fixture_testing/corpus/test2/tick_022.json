@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1759527171,
+    "authority": 0.8676477209242202,
+    "text": "Deno topic: bundled tooling Deno KV Web APIs bundled tooling Web APIs Web APIs Deno KV std library std library import URL std library bundled tooling",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759527402,
+    "authority": 0.7075432802565388,
+    "text": "Node topic: require Express libuv Express Express worker_threads package.json NestJS NestJS CommonJS Express CommonJS",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1759527057,
+    "authority": 0.7064934729754118,
+    "text": "Node topic: npm LTS Express package.json package.json LTS require NestJS LTS npm npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759527981,
+    "authority": 0.6957902403831951,
+    "text": "Parent topic: ts javascript workers tooling http server modules tooling http server workers ts event loop cjs http server",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1759525541,
+    "authority": 0.7414704678233726,
+    "text": "Parent topic: event loop event loop ts ts tooling workers workers workers http server workers workers",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1759527191,
+    "authority": 0.8343279679801897,
+    "text": "Deno topic: TypeScript-first std library std library import URL import URL fetch bundled tooling Web APIs std library import URL bundled tooling",
+    "arm_id": "seed:Deno"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760907693,
+    "authority": 0.8924548412957829,
+    "text": "Deno topic: std library fetch fetch fetch std library Web APIs std library fetch Deno KV permissions Deno KV std library bundled tooling deno.json permissions Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760907733,
+    "authority": 0.691172329152101,
+    "text": "Node topic: CommonJS LTS cluster libuv NestJS CommonJS package.json npm require libuv cluster package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1760909355,
+    "authority": 0.6885517103919916,
+    "text": "Parent topic: cjs javascript esm cjs modules modules runtime cjs modules runtime cjs http server runtime esm cjs",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1760908416,
+    "authority": 0.6859802441787136,
+    "text": "Node topic: Express worker_threads Express package.json package.json CommonJS NestJS npm libuv cluster Express cluster",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760907902,
+    "authority": 0.8742358294814941,
+    "text": "Deno topic: fetch TypeScript-first import URL fetch fetch Deno KV bundled tooling permissions permissions Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1760907557,
+    "authority": 0.8282605162999149,
+    "text": "Deno topic: TypeScript-first import URL deno.json std library permissions Deno KV fetch Deno KV fetch permissions permissions fetch deno.json permissions",
+    "arm_id": "seed:Deno"
+  }
+]

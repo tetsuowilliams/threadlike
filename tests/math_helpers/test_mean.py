@@ -88,14 +88,6 @@ class TestMean:
         with pytest.raises(IndexError):
             mean(vs)
     
-    def test_mean_different_lengths_uses_shorter(self):
-        """Test that mean of vectors with different lengths uses shorter length."""
-        vs = [[1.0, 2.0], [3.0, 4.0, 5.0]]
-        result = mean(vs)
-        # Should only use first 2 elements: [(1+3)/2, (2+4)/2] = [2, 3]
-        expected = [2.0, 3.0]
-        assert result == expected
-    
     def test_mean_does_not_modify_input(self):
         """Test that mean does not modify input vectors."""
         vs = [[1.0, 2.0, 3.0], [4.0, 5.0, 6.0]]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/2",
+    "title": "Node doc 2",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758834659,
+    "authority": 0.6956784691967333,
+    "text": "Node topic: cluster package.json package.json Express npm package.json LTS CommonJS require require worker_threads LTS CommonJS Express package.json",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758836448,
+    "authority": 0.7377607030973198,
+    "text": "Node topic: require LTS require npm require worker_threads npm require package.json worker_threads libuv cluster package.json cluster cluster",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/1",
+    "title": "Parent doc 1",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758835608,
+    "authority": 0.7354327632419797,
+    "text": "Parent topic: modules runtime event loop runtime runtime runtime cjs esm esm runtime modules esm ts http server javascript",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758835942,
+    "authority": 0.7358537498186116,
+    "text": "Node topic: libuv require CommonJS CommonJS NestJS require worker_threads package.json require NestJS worker_threads CommonJS package.json NestJS npm",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://nodejs.example/node/3",
+    "title": "Node doc 3",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1758834071,
+    "authority": 0.6881836692986519,
+    "text": "Node topic: NestJS npm worker_threads Express Express worker_threads NestJS LTS CommonJS libuv LTS worker_threads cluster cluster require",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1758834879,
+    "authority": 0.7455793203333567,
+    "text": "Parent topic: event loop event loop tooling esm workers ts event loop workers modules workers event loop cjs esm",
+    "arm_id": "seed:Parent"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://nodejs.example/node/1",
+    "title": "Node doc 1",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761253133,
+    "authority": 0.6841736236640282,
+    "text": "Node topic: worker_threads NestJS CommonJS LTS cluster cluster CommonJS LTS require Express",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761256483,
+    "authority": 0.8624888017846684,
+    "text": "Deno topic: fetch Web APIs deno.json permissions std library fetch TypeScript-first permissions std library std library",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761253294,
+    "authority": 0.806394125319718,
+    "text": "Deno topic: Deno KV permissions deno.json bundled tooling import URL import URL import URL import URL Deno KV deno.json",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1761256003,
+    "authority": 0.8444927915851059,
+    "text": "Deno topic: TypeScript-first std library permissions permissions Web APIs bundled tooling Deno KV deno.json Deno KV permissions TypeScript-first deno.json std library Deno KV",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1761253164,
+    "authority": 0.6661305197364494,
+    "text": "Parent topic: ts javascript tooling cjs tooling cjs ts javascript workers esm cjs javascript",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1761256112,
+    "authority": 0.6718060003872134,
+    "text": "Node topic: package.json NestJS Express npm CommonJS NestJS require npm cluster require LTS LTS libuv worker_threads cluster cluster",
+    "arm_id": "seed:Node"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://example.dev/parent/0",
+    "title": "Parent doc 0",
+    "domain": "example.dev",
+    "type": "blog",
+    "ts": 1762379060,
+    "authority": 0.7135236213851339,
+    "text": "Parent topic: workers ts http server workers esm http server cjs cjs cjs workers workers esm esm workers event loop event loop",
+    "arm_id": "seed:Parent"
+  },
+  {
+    "url": "https://nodejs.example/node/0",
+    "title": "Node doc 0",
+    "domain": "nodejs.example",
+    "type": "blog",
+    "ts": 1762376664,
+    "authority": 0.6836914371492193,
+    "text": "Node topic: require npm Express npm LTS libuv cluster LTS package.json require",
+    "arm_id": "seed:Node"
+  },
+  {
+    "url": "https://bun.sh/bun/1",
+    "title": "Bun doc 1",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762379482,
+    "authority": 0.6037962880132236,
+    "text": "Bun topic: bun install bundler test runner HMR test runner hot reload bun install hot reload bundler fast startup bundler Zig HMR",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/1",
+    "title": "Deno doc 1",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762378020,
+    "authority": 0.8902789356348018,
+    "text": "Deno topic: bundled tooling fetch deno.json fetch bundled tooling std library permissions Deno KV std library permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://bun.sh/bun/0",
+    "title": "Bun doc 0",
+    "domain": "bun.sh",
+    "type": "news",
+    "ts": 1762378309,
+    "authority": 0.6601955153718644,
+    "text": "Bun topic: test runner bundler fast startup hot reload bundler Zig Zig test runner bun install test runner native loader",
+    "arm_id": "seed:Bun"
+  },
+  {
+    "url": "https://deno.land/deno/0",
+    "title": "Deno doc 0",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762377370,
+    "authority": 0.8157798069359533,
+    "text": "Deno topic: fetch Deno KV Web APIs std library deno.json Web APIs Deno KV bundled tooling fetch fetch std library std library deno.json bundled tooling permissions",
+    "arm_id": "seed:Deno"
+  },
+  {
+    "url": "https://deno.land/deno/2",
+    "title": "Deno doc 2",
+    "domain": "deno.land",
+    "type": "docs",
+    "ts": 1762378722,
+    "authority": 0.8674341399764359,
+    "text": "Deno topic: std library import URL deno.json TypeScript-first std library std library TypeScript-first std library Deno KV deno.json Deno KV import URL permissions TypeScript-first",
+    "arm_id": "seed:Deno"
+  }
+]
